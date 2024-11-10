@@ -1,5 +1,5 @@
 def call(repo) {
-   stage('build') {
+   stage('clone') {
       steps {
          git url: 'https://github.com/Junaid3222/mvn-web-app.git'
       }
