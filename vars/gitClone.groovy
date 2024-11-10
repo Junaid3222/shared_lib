@@ -1,3 +1,3 @@
 def call(repo) {           
-   git url: 'https://github.com/ashokitschool/maven-web-app.git'
+   git url: 'https://github.com/Junaid3222/mvn-web-app.git'
 }
